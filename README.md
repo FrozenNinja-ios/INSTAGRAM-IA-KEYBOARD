@@ -2,7 +2,7 @@
 INSTAGRAM REGRAM COM TECLADO VISUAL DO APPLE INTELLIGENCE 
 #
 Foi inserido nesse ipa o teclado do visual intelligence, isso não é nada demais mas é algo interessante pra quem queira usar. 
-Esse teclado foi extraido do ios 18.1.1, fiz um beckup (descriptografado). Publicarei um reposotório somente falando disso e como podemos maniupular o sistema utilizando imazing
+Esse teclado foi extraido do ios 18.1.1, fiz um beckup (descriptografado). Publicarei um reposotório falando somtente disso e como podemos maniupular o sistema utilizando imazing e gravação fora do local de restauração (beckup)
 
 # Funções Extras
 * Visualizador anônimo: visualize os storys de forma anonima 
