@@ -4,7 +4,7 @@ ESSE IPA CONTEM A EXTRAÇÃO DE UM .DEB DO TECLADO DO APPLE INTELLIGENCE DO IOS 
 FIZ ESSA EXTRAÇÃO USANDO UM BECKUP DESCRIPTOGRAFADO DO IOS 18.1.1 COM IMAZING 
 
 # Funções Extras
-Visualizador anônimo: visualize os storys de forma anonima 
+* Visualizador anônimo: visualize os storys de forma anonima 
 Visualize histórias e mensagens sem notificar o remetente
 Melhorias no feed:
 Baixe postagens (vídeos e fotos)
@@ -23,7 +23,7 @@ Oculte a barra de histórias do feed
 
 Perfil:
 * Mostre se outros usuários seguem você
-Pressione e segure as imagens do perfil para ampliar
+* Pressione e segure as imagens do perfil para ampliar
 Exiba estatísticas numéricas exatas
 Mensagens diretas:
 Desative os recibos de leitura
