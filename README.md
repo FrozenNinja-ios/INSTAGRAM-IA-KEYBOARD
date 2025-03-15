@@ -1,4 +1,4 @@
-# INSTAGRAM DEV OU VKIC CHAME COMO QUISER 
+# INSTAGRAM DEV
 INSTAGRAM REGRAM COM TECLADO VISUAL DO APPLE INTELLIGENCE 
 #
 Foi inserido nesse ipa o teclado do visual intelligence, isso não é nada demais mas é algo interessante pra quem queira usar. 
