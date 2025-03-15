@@ -8,11 +8,11 @@ FIZ ESSA EXTRAÇÃO USANDO UM BECKUP DESCRIPTOGRAFADO DO IOS 18.1.1 COM IMAZING
 * Visualize histórias e mensagens sem notificar o remetente
 * Melhorias no feed:
 * Baixe postagens (vídeos e fotos)
-* Republique conteúdo _facilmente_
+* Republique conteúdo facilmente
 * Pressione e segure para ampliar as postagens
 * Copiar legendas de texto das postagens
 
-Storys:
+_Storys_:
 * Salve histórias no rolo da câmera
 * Visualize histórias anonimamente
 * Marque manualmente as histórias como vistas
@@ -21,7 +21,7 @@ Storys:
 * Desative a troca automática entre histórias
 * Oculte a barra de histórias do feed
 
-Perfil:
+_Perfil_:
 * Mostre se outros usuários seguem você
 * Pressione e segure as imagens do perfil para ampliar
 Exiba estatísticas numéricas exatas
