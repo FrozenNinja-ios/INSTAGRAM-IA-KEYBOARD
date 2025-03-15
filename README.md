@@ -8,7 +8,7 @@ FIZ ESSA EXTRAÇÃO USANDO UM BECKUP DESCRIPTOGRAFADO DO IOS 18.1.1 COM IMAZING
 * Visualize histórias e mensagens sem notificar o remetente
 * Melhorias no feed:
 * Baixe postagens (vídeos e fotos)
-* Republique conteúdo facilmente
+* Republique conteúdo _facilmente_
 * Pressione e segure para ampliar as postagens
 * Copiar legendas de texto das postagens
 
